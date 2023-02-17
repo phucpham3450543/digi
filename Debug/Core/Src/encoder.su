@@ -1,0 +1,10 @@
+../Core/Src/encoder.c:13:6:Encoder_Setup	8	static
+../Core/Src/encoder.c:19:5:Encoder_Handle	8	static
+../Core/Src/encoder.c:39:5:Change_hour	8	static
+../Core/Src/encoder.c:55:5:Change_minutes	8	static
+../Core/Src/encoder.c:71:5:Change_seconds	8	static
+../Core/Src/encoder.c:87:5:Change_day	8	static
+../Core/Src/encoder.c:101:5:Change_date	8	static
+../Core/Src/encoder.c:117:5:Change_month	8	static
+../Core/Src/encoder.c:133:5:Change_year	8	static
+../Core/Src/encoder.c:149:5:Button_Handle	16	static

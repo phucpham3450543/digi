@@ -1,0 +1,4 @@
+../Core/Src/DS1302.c:11:9:DectoBcd	16	static
+../Core/Src/DS1302.c:15:5:BcdtoDec	16	static
+../Core/Src/DS1302.c:19:6:Set_time	48	static
+../Core/Src/DS1302.c:31:6:Get_time	32	static
